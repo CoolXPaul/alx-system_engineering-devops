@@ -1,1 +1,1 @@
-Print the absolute name of the current working directory
+Listing the contents of a directory
