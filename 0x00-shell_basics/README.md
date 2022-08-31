@@ -1,1 +1,1 @@
-creatting a directory in another directory
+Betty in my first directory
