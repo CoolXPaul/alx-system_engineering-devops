@@ -1,1 +1,1 @@
-Copy HTML files
+Mo ve uppercase files
